@@ -1,5 +1,5 @@
 /*
-    menu - video
+    menu - copyright
 */
 import $ from '../../util/dom-core.js'
 

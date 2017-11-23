@@ -2657,7 +2657,7 @@ Image.prototype = {
 };
 
 /*
-    menu - video
+    menu - copyright
 */
 // 构造函数
 function Copyright(editor) {
