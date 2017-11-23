@@ -41,7 +41,6 @@ Editor.prototype = {
         let target = {}
         this.config = Object.assign(target, _config, this.customConfig)
 
-        console.log(this.config)
         // 将语言配置，生成正则表达式
         const langConfig = this.config.lang || {}
         const langArgs = []
